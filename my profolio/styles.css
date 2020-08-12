@@ -1,0 +1,19 @@
+.major{
+    color: aqua;
+    display: flex;
+    padding-right: 2px;
+}
+
+p{
+    color: aqua;
+    font-weight: bold;
+}
+
+.content span-7{
+    padding-right: 10px;
+}
+
+ul, h2{
+    font-size: 18px;
+    font-weight: bold;
+}
